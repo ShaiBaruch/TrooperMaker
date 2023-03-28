@@ -1,0 +1,47 @@
+Rebel troopers: 2
+Stormtroopers: 2
+{red=[Luke(red5: ) a pilot], tk=[(tk421: ) a StormTrooper], black=[Poe(black1: ) a pilot], jb=[(jb7: ) a StormTrooper]}
+Luke(red5: ) a pilot
+Luke(red5: ) a pilot Marched 37.5 meters
+Luke(red5: ) a pilot is targeting itself.
+Luke(red5: ) a pilot rolled a 1 and hurt itself in the confusion
+Hit!
+Luke(red5: ) a pilot rolled a 3 against the imperial scum.
+Hit!
+Imperial Spy!
+Miss!
+Luke(red5: ) a pilot rolled a 18 against the imperial scum.
+Hit!
+(tk421: ) a StormTrooper
+(tk421: ) a StormTrooper Marched 132.0 meters
+(tk421: ) a StormTrooperrolled a 19 against the rebel scum.
+Miss!
+(tk421: ) a StormTrooper is targeting itself.
+(tk421: ) a StormTrooper rolled a 13 and hurt itself in the confusion
+Hit!
+(tk421: ) a StormTrooperrolled a 7 against the rebel scum.
+Miss!
+No treason in the ranks!
+Miss!
+Poe(black1: ) a pilot
+Poe(black1: ) a pilot Marched 75.0 meters
+Imperial Spy!
+Miss!
+Poe(black1: ) a pilot rolled a 6 against the imperial scum.
+Hit!
+Poe(black1: ) a pilot is targeting itself.
+Poe(black1: ) a pilot rolled a 17 and hurt itself in the confusion
+Hit!
+Poe(black1: ) a pilot rolled a 15 against the imperial scum.
+Hit!
+(jb7: ) a StormTrooper
+(jb7: ) a StormTrooper Marched 55.00000000000001 meters
+(jb7: ) a StormTrooperrolled a 4 against the rebel scum.
+Miss!
+No treason in the ranks!
+Miss!
+(jb7: ) a StormTrooperrolled a 10 against the rebel scum.
+Miss!
+(jb7: ) a StormTrooper is targeting itself.
+(jb7: ) a StormTrooper rolled a 14 and hurt itself in the confusion
+Hit!
